@@ -47,7 +47,7 @@ if first_step == "Left":
 elif first_step == "Right":
     print("You chose right, You have entered the dragons lair")
     print("As you walk deep into the dungeon you find a mighty dragon deep in its sleep.\nThe very sight of the dragon sends chills down your spine.")
-    print("As you come closer you realize that this is the ancient dragon that destroyed the earth once upon a time 'The Chaos Dragon'")
+    print("As you come closer you realize that this i5fgs the ancient dragon that destroyed the earth once upon a time 'The Chaos Dragon'")
     sneak_train = input("Do you want to sneak past the dragon or train it?Press Y to train and N to sneak.")
     if sneak_train == "Y":
         print("As you try to approach the dragon it wakes up from its deep sleep and gets angry.\nIt looks at you and wants to devour you and then you suddenly remember you have food, So you feed the dragon and it calms down.")
